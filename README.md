@@ -3,7 +3,7 @@
 Project Partner: Jayavardhini Kathika
 
 I.  Brief Description:
-VforU is an aggregator Desktop application which matches ‘requester’ to ‘volunteer’ for short-term healthcare
+VforU is a Desktop application which matches ‘requester’ to ‘volunteer’ for short-term healthcare
 assistance. When deployed in a real time environment, people can use this application by signing up as
 1)Requester or, 2)Volunteer. In the current pandemic scenario, a lot of people are falling sick and may need
 1)immediate medical assistance, 2)essential groceries, or 3)medicines. This is causing a heavy surge on
